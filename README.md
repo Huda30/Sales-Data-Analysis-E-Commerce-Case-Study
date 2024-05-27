@@ -9,7 +9,7 @@ Built data visualization of this business using Python, saving me a week of manu
 
 There are also challenges that I have addressed using my technical skills, demonstrated by the following challenge:
 
-* Which is the best month for sale?
+* What is the best month for sale?
 
 * Which city has the max order?
 
