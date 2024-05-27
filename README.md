@@ -1,7 +1,7 @@
 # *Project Overview*🛍🛒
 
 E-commerce like Amazon, eBay and other online platforms create a huge amount of data daily.
-My job as a data analyst was to manipulate different kinds of data and leverage them to come up with beautiful, and insightful information.
+My job as a data analyst is to manipulate different kinds of data and leverage them to come up with beautiful, and insightful information.
 
 The data contains hundreds of thousands of electronics store purchases, categorized by Order ID, Product, Price, Product Type, Order Date, and Purchase Address.
 
