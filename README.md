@@ -1,9 +1,11 @@
 # *Project Overview*🛍🛒
 
 E-commerce like Amazon, eBay and other online platforms create a huge amount of data daily.
-My job as a data analyst is to manipulate different kinds of data and leverage them to come up with beautiful, and insightful information.
+My job as a data analyst is to manipulate different kinds of data, leverage them to come up with beautiful insightful information and think out of the box.💯🛍🛒
 
-The data contains hundreds of thousands of electronics store purchases, categorized by Order ID, Product, Price, Product Type, Order Date, and Purchase Address.
+The data contains hundreds of thousands of electronics store purchases. Data pre-processing/data cleaning, EDA, and ETL pipeline have been completed.
+
+Built data visualization of this business using Python, saving me a week of manual work for the project.💯
 
 There are also challenges that I have addressed using my technical skills, demonstrated by the following challenge:
 
