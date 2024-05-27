@@ -16,3 +16,6 @@ There are also challenges that I have addressed using my technical skills, demon
 * Understanding the Trend of the most sold product.
 
 * What products are most often sold together?
+
+![AM](https://github.com/Huda30/Sales-Data-Analysis-E-Commerce-Case-Study/assets/130062839/bc68501d-b1d3-4f13-b6be-669fb2f37ef8)
+![images (1)](https://github.com/Huda30/Sales-Data-Analysis-E-Commerce-Case-Study/assets/130062839/3b34c7ab-0363-4561-8dba-78bedc8f2820)
